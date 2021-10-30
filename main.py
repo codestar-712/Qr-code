@@ -7,4 +7,4 @@ Qrstring="https://codestarshub.blogspot.com/2020/12/generate-qr-code-using-pytho
 url=pyqrcode.create(Qrstring)#function to create the qr-code
 url.png('C:/Users/hp/Desktop/qr.png',scale=8)#create and save the png file at the location
 
-var=6
+var=644
